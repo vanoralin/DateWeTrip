@@ -1,0 +1,634 @@
+{
+    "places": [
+        {
+            "id": "p1",
+            "name": "Cafe de Flore",
+            "tag": "cafe",
+            "location": "Paris",
+            "description": "A famous cafe known for its rich history and vibrant atmosphere."
+        },
+        {
+            "id": "p2",
+            "name": "Les Deux Magots",
+            "tag": "cafe",
+            "location": "Paris",
+            "description": "A historic cafe frequented by artists and intellectuals."
+        },
+        {
+            "id": "p3",
+            "name": "The Blue Bottle",
+            "tag": "cafe",
+            "location": "San Francisco",
+            "description": "A popular spot for coffee lovers, offering a great atmosphere."
+        },
+        {
+            "id": "p4",
+            "name": "Sant’Eustachio Il Caffè",
+            "tag": "cafe",
+            "location": "Rome",
+            "description": "A must-visit for espresso enthusiasts in the heart of Rome."
+        },
+        {
+            "id": "p5",
+            "name": "Cafe Tortoni",
+            "tag": "cafe",
+            "location": "Buenos Aires",
+            "description": "A historical cafe offering live tango shows and a cultural experience."
+        },
+        {
+            "id": "p6",
+            "name": "Cafe Central",
+            "tag": "cafe",
+            "location": "Vienna",
+            "description": "A 19th-century coffeehouse with an elegant interior and rich history."
+        },
+        {
+            "id": "p7",
+            "name": "Cafe Pushkin",
+            "tag": "cafe",
+            "location": "Moscow",
+            "description": "A 19th-century styled cafe offering Russian cuisine and fine dining."
+        },
+        {
+            "id": "p8",
+            "name": "Café de la Paix",
+            "tag": "cafe",
+            "location": "Paris",
+            "description": "One of Paris's most iconic cafes, located near the Opera House."
+        },
+        {
+            "id": "p9",
+            "name": "Intelligentsia Coffee",
+            "tag": "cafe",
+            "location": "Los Angeles",
+            "description": "A trendy coffeehouse known for its carefully brewed coffee."
+        },
+        {
+            "id": "p10",
+            "name": "Caffè Florian",
+            "tag": "cafe",
+            "location": "Venice",
+            "description": "One of the oldest cafes in the world, located in Piazza San Marco."
+        },
+        {
+            "id": "p11",
+            "name": "Louvre Museum",
+            "tag": "museum",
+            "location": "Paris",
+            "description": "The world's largest art museum and a historic monument in Paris."
+        },
+        {
+            "id": "p12",
+            "name": "Vatican Museums",
+            "tag": "museum",
+            "location": "Rome",
+            "description": "A group of art museums located within Vatican City."
+        },
+        {
+            "id": "p13",
+            "name": "British Museum",
+            "tag": "museum",
+            "location": "London",
+            "description": "A museum dedicated to human history, art, and culture."
+        },
+        {
+            "id": "p14",
+            "name": "Metropolitan Museum of Art",
+            "tag": "museum",
+            "location": "New York",
+            "description": "One of the world's largest and finest art museums."
+        },
+        {
+            "id": "p15",
+            "name": "Prado Museum",
+            "tag": "museum",
+            "location": "Madrid",
+            "description": "Spain's national art museum showcasing European masterpieces."
+        },
+        {
+            "id": "p16",
+            "name": "Rijksmuseum",
+            "tag": "museum",
+            "location": "Amsterdam",
+            "description": "A museum showcasing Dutch art and history."
+        },
+        {
+            "id": "p17",
+            "name": "National Museum of China",
+            "tag": "museum",
+            "location": "Beijing",
+            "description": "A museum covering the history and culture of China."
+        },
+        {
+            "id": "p18",
+            "name": "Museum of Modern Art",
+            "tag": "museum",
+            "location": "New York",
+            "description": "One of the most influential modern art museums in the world."
+        },
+        {
+            "id": "p19",
+            "name": "Hermitage Museum",
+            "tag": "museum",
+            "location": "St. Petersburg",
+            "description": "One of the largest and oldest museums in the world."
+        },
+        {
+            "id": "p20",
+            "name": "Guggenheim Museum",
+            "tag": "museum",
+            "location": "Bilbao",
+            "description": "A modern art museum known for its unique architecture."
+        },
+        {
+            "id": "p21",
+            "name": "Eiffel Tower",
+            "tag": "landmark",
+            "location": "Paris",
+            "description": "An iconic symbol of France, offering breathtaking views."
+        },
+        {
+            "id": "p22",
+            "name": "Colosseum",
+            "tag": "landmark",
+            "location": "Rome",
+            "description": "An ancient amphitheater known for gladiator battles."
+        },
+        {
+            "id": "p23",
+            "name": "Great Wall",
+            "tag": "landmark",
+            "location": "Beijing",
+            "description": "An ancient series of walls and fortifications."
+        },
+        {
+            "id": "p24",
+            "name": "Statue of Liberty",
+            "tag": "landmark",
+            "location": "New York",
+            "description": "A symbol of freedom and democracy in the United States."
+        },
+        {
+            "id": "p25",
+            "name": "Machu Picchu",
+            "tag": "landmark",
+            "location": "Peru",
+            "description": "An ancient Inca citadel set high in the Andes Mountains."
+        },
+        {
+            "id": "p26",
+            "name": "Christ the Redeemer",
+            "tag": "landmark",
+            "location": "Rio de Janeiro",
+            "description": "A massive statue of Jesus Christ overlooking the city."
+        },
+        {
+            "id": "p27",
+            "name": "Big Ben",
+            "tag": "landmark",
+            "location": "London",
+            "description": "The Great Bell of the clock at the Palace of Westminster."
+        },
+        {
+            "id": "p28",
+            "name": "Sydney Opera House",
+            "tag": "landmark",
+            "location": "Sydney",
+            "description": "An iconic performing arts center in Sydney, Australia."
+        },
+        {
+            "id": "p29",
+            "name": "Taj Mahal",
+            "tag": "landmark",
+            "location": "Agra",
+            "description": "A magnificent white marble mausoleum built by Mughal emperor Shah Jahan."
+        },
+        {
+            "id": "p30",
+            "name": "Sagrada Familia",
+            "tag": "landmark",
+            "location": "Barcelona",
+            "description": "A large unfinished Roman Catholic church designed by Antoni Gaudí."
+        },
+        {
+            "id": "p31",
+            "name": "Luxembourg Gardens",
+            "tag": "park",
+            "location": "Paris",
+            "description": "Beautiful gardens perfect for relaxation and picnics."
+        },
+        {
+            "id": "p32",
+            "name": "Central Park",
+            "tag": "park",
+            "location": "New York",
+            "description": "A vast green space in the heart of New York City."
+        },
+        {
+            "id": "p33",
+            "name": "Hyde Park",
+            "tag": "park",
+            "location": "London",
+            "description": "One of London's largest and most famous parks."
+        },
+        {
+            "id": "p34",
+            "name": "Ueno Park",
+            "tag": "park",
+            "location": "Tokyo",
+            "description": "A spacious public park known for its cherry blossoms."
+        },
+        {
+            "id": "p35",
+            "name": "Golden Gate Park",
+            "tag": "park",
+            "location": "San Francisco",
+            "description": "A large urban park with gardens, museums, and scenic views."
+        },
+        {
+            "id": "p36",
+            "name": "Botanical Gardens",
+            "tag": "park",
+            "location": "Pondicherry",
+            "description": "A lush garden featuring a variety of plant species."
+        },
+        {
+            "id": "p37",
+            "name": "Stanley Park",
+            "tag": "park",
+            "location": "Vancouver",
+            "description": "A large park surrounded by the Pacific Ocean with scenic views."
+        },
+        {
+            "id": "p38",
+            "name": "Balboa Park",
+            "tag": "park",
+            "location": "San Diego",
+            "description": "A cultural park with museums, gardens, and the famous zoo."
+        },
+        {
+            "id": "p39",
+            "name": "Yoyogi Park",
+            "tag": "park",
+            "location": "Tokyo",
+            "description": "A spacious park known for its open spaces and festivals."
+        },
+        {
+            "id": "p40",
+            "name": "Lynn Canyon Park",
+            "tag": "park",
+            "location": "Vancouver",
+            "description": "A beautiful park featuring hiking trails and a suspension bridge."
+        },
+        {
+            "id": "p41",
+            "name": "Bondi Beach",
+            "tag": "beach",
+            "location": "Sydney",
+            "description": "A popular beach known for surfing and stunning views."
+        },
+        {
+            "id": "p42",
+            "name": "Copacabana Beach",
+            "tag": "beach",
+            "location": "Rio de Janeiro",
+            "description": "Famous for its lively atmosphere and beautiful scenery."
+        },
+        {
+            "id": "p43",
+            "name": "Maui Beach",
+            "tag": "beach",
+            "location": "Hawaii",
+            "description": "Renowned for its picturesque sunsets and clear waters."
+        },
+        {
+            "id": "p44",
+            "name": "Waikiki Beach",
+            "tag": "beach",
+            "location": "Hawaii",
+            "description": "A famous beach known for its vibrant nightlife and surfing."
+        },
+        {
+            "id": "p45",
+            "name": "Santa Monica Beach",
+            "tag": "beach",
+            "location": "California",
+            "description": "A lively beach with a famous pier and plenty of attractions."
+        },
+        {
+            "id": "p46",
+            "name": "Kuta Beach",
+            "tag": "beach",
+            "location": "Bali",
+            "description": "Known for its surf breaks and vibrant beach scene."
+        },
+        {
+            "id": "p47",
+            "name": "Nassau Beach",
+            "tag": "beach",
+            "location": "Bahamas",
+            "description": "A beautiful beach with soft white sand and crystal-clear waters."
+        },
+        {
+            "id": "p48",
+            "name": "Cancun Beach",
+            "tag": "beach",
+            "location": "Mexico",
+            "description": "Famous for its white sand and turquoise waters."
+        },
+        {
+            "id": "p49",
+            "name": "Phra Nang Beach",
+            "tag": "beach",
+            "location": "Thailand",
+            "description": "Known for its stunning limestone cliffs and clear waters."
+        },
+        {
+            "id": "p50",
+            "name": "Maldives Beach",
+            "tag": "beach",
+            "location": "Maldives",
+            "description": "A tropical paradise with white sand beaches and luxury resorts."
+        }
+    ],
+    "users": [
+        {
+            "name": "alice",
+            "picture": "assets/images/profile_alice.jpg",
+            "trips": [
+                "trip1",
+                "trip2"
+            ],
+            "groups": [
+                "friends",
+                "book_club"
+            ],
+            "favourites": [
+                "p1",
+                "p5",
+                "p21"
+            ]
+        },
+        {
+            "name": "bob",
+            "picture": "assets/images/profile_bob.jpg",
+            "trips": [
+                "trip3"
+            ],
+            "groups": [
+                "friends"
+            ],
+            "favourites": [
+                "p2",
+                "p6",
+                "p12"
+            ]
+        },
+        {
+            "name": "charlie",
+            "picture": "assets/images/profile_charlie.jpg",
+            "trips": [],
+            "groups": [
+                "family"
+            ],
+            "favourites": [
+                "p13",
+                "p14"
+            ]
+        },
+        {
+            "name": "diana",
+            "picture": "assets/images/profile_diana.jpg",
+            "trips": [
+                "trip4"
+            ],
+            "groups": [
+                "friends",
+                "adventurers"
+            ],
+            "favourites": [
+                "p3",
+                "p9",
+                "p10"
+            ]
+        },
+        {
+            "name": "edward",
+            "picture": "assets/images/profile_edward.jpg",
+            "trips": [],
+            "groups": [],
+            "favourites": [
+                "p4",
+                "p12",
+                "p19"
+            ]
+        },
+        {
+            "name": "fiona",
+            "picture": "assets/images/profile_noname.jpg",
+            "trips": [],
+            "groups": [
+                "friends",
+                "book_club"
+            ],
+            "favourites": [
+                "p7",
+                "p15"
+            ]
+        },
+        {
+            "name": "george",
+            "picture": "assets/images/profile_noname.jpg",
+            "trips": [
+                "trip5"
+            ],
+            "groups": [
+                "adventurers"
+            ],
+            "favourites": [
+                "p8",
+                "p16"
+            ]
+        },
+        {
+            "name": "hannah",
+            "picture": "assets/images/profile_noname.jpg",
+            "trips": [
+                "trip6"
+            ],
+            "groups": [
+                "family",
+                "friends"
+            ],
+            "favourites": [
+                "p11",
+                "p20"
+            ]
+        },
+        {
+            "name": "ivan",
+            "picture": "assets/images/profile_noname.jpg",
+            "trips": [],
+            "groups": [
+                "sports_fans"
+            ],
+            "favourites": [
+                "p17",
+                "p18"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "name": "Friends",
+            "members": [
+                "alice",
+                "bob",
+                "diana",
+                "fiona",
+                "hannah"
+            ]
+        },
+        {
+            "name": "Family",
+            "members": [
+                "charlie",
+                "diana",
+                "hannah"
+            ]
+        },
+        {
+            "name": "Adventurers",
+            "members": [
+                "diana",
+                "george"
+            ]
+        },
+        {
+            "name": "Book Club",
+            "members": [
+                "alice",
+                "fiona"
+            ]
+        },
+        {
+            "name": "Sports Fans",
+            "members": [
+                "ivan"
+            ]
+        },
+        {
+            "name": "Travel Enthusiasts",
+            "members": [
+                "bob",
+                "hannah"
+            ]
+        },
+        {
+            "name": "Foodies",
+            "members": [
+                "fiona",
+                "charlie"
+            ]
+        }
+    ],
+    "trips": [
+        {
+            "id": "trip1",
+            "name": "Weekend in Paris",
+            "place": "p1",
+            "members": [
+                "alice",
+                "bob",
+                "charlie"
+            ],
+            "start_date": "2024-10-01",
+            "end_date": "2024-10-03",
+            "status": "planning",
+            "top_places": [
+                "p1",
+                "p2",
+                "p3",
+                "p4",
+                "p5"
+            ]
+        },
+        {
+            "id": "trip2",
+            "name": "Beijing Adventure",
+            "place": "p3",
+            "members": [
+                "diana",
+                "edward"
+            ],
+            "start_date": "2024-11-05",
+            "end_date": "2024-11-10",
+            "status": "finished",
+            "top_places": [
+                "p11",
+                "p12",
+                "p13",
+                "p14",
+                "p15"
+            ]
+        },
+        {
+            "id": "trip3",
+            "name": "Culinary Tour in Rome",
+            "place": null,
+            "members": [
+                "alice",
+                "bob"
+            ],
+            "start_date": "2024-09-15",
+            "end_date": "2024-09-20",
+            "status": "not_selected_place",
+            "top_places": []
+        },
+        {
+            "id": "trip4",
+            "name": "Beach Getaway",
+            "place": null,
+            "members": [
+                "diana",
+                "charlie"
+            ],
+            "start_date": null,
+            "end_date": null,
+            "status": "not_selected_date",
+            "top_places": []
+        },
+        {
+            "id": "trip5",
+            "name": "Tokyo Sightseeing",
+            "place": null,
+            "members": [
+                "alice",
+                "edward"
+            ],
+            "start_date": null,
+            "end_date": null,
+            "status": "not_selected_date",
+            "top_places": []
+        },
+        {
+            "id": "trip6",
+            "name": "San Francisco Fun",
+            "place": "p19",
+            "members": [
+                "bob",
+                "charlie"
+            ],
+            "start_date": "2024-11-20",
+            "end_date": "2024-11-25",
+            "status": "finished",
+            "top_places": [
+                "p19",
+                "p18",
+                "p17",
+                "p16",
+                "p15"
+            ]
+        }
+    ]
+}
